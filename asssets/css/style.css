@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color:burlywood;
+    padding: 2rem;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 1rem;
+
+}
+nav li{
+    display: inline-block;
+}
+nav a{
+    text-decoration: none;
+    padding: 1rem;
+    display: inline-block;
+}
+
+.text{
+    overflow: hidden;
+}
+
+ .img-item{
+    width:50%;
+    float:left;
+    padding: 2rem;
+    font-style:italic;
+    color:violet;
+
+ }
+ .img-item img{
+    width: 100%;
+ }
+
+ .main{
+    overflow: hidden;
+    padding: 2rem;
+    font-style: italic;
+    text-decoration: none;
+    text-align: center;
+    color: blueviolet;
+    background-color: antiquewhite;
+ }
+ .content{
+    padding: 2rem;
+    font-style: normal;
+    background-color: skyblue;
+    
+ }
+ .graden{
+    overflow: hidden;
+    padding: 2rem;
+    text-align: center;
+    color: blueviolet;
+    font-style: italic;
+ }
+
+ .flower-item{
+    float: left;
+    width: 25%;
+    Padding:2rem;
+
+ }
+ .flower-item img{
+    width: 100%;
+ }
+ .contentA{
+    font-style: italic;
+    color: blueviolet;
+    background-color: whitesmoke;
+ }
+ .pagination{
+   overflow: hidden;
+   background-color: pink;
+   text-decoration: none;
+   font-style: italic;
+   display: inline-block;
+
+ }
+ .table-new{
+   overflow: hidden;
+   text-align: center;
+   padding: 2rem;
+ }
+
+ table{
+   width: 90%;
+   margin: auto;
+ }
+ table,td,th{
+   border: solid;
+   border-collapse: collapse;
+ }
+ table{
+   width: 100%;
+   line-height: 2D;
+ }
+ .fortune{
+   overflow: hidden;
+   padding: 2rem;
+   background-color:black;
+   color: azure;
+ }
+ .Current{
+   float: left;
+   width: 50%;
+   background-color: whitesmoke;
+
+ }
+
+ .space{
+   overflow: hidden;
+   padding: 1rem;
+ }
+ .car-type{
+   float: left;
+   width: 50%;
+ }
+ .car-type img{
+   width: 100px;
+ }
+ 
